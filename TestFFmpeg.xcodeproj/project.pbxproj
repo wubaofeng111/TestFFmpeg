@@ -12640,8 +12640,7 @@
 				B60D026E2268528C00DE8327 /* CREDITS */,
 				B60D026F2268528C00DE8327 /* ffplay */,
 			);
-			name = ffmpeg;
-			path = ../OpenSource/ffmpeg;
+			path = ffmpeg;
 			sourceTree = "<group>";
 		};
 		B60DD71D2268524200DE8327 /* libpostproc */ = {
